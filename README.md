@@ -1,5 +1,5 @@
 # Spotify_Loader
-blocks advertisements on spotify desktop
+Blocks advertisements on spotify desktop<br>
 Bloqueie propagandas da google e outros no spotify para desktop, baixe ou compile nosso loader e utilize na versão 1.0.96.181<br>
 https://github.com/Romulo-Meirelles/Spotify_Loader/raw/gh-pages/Spotify%20Loader/bin/Debug/Spotify%20Loader.exe
 
