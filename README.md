@@ -1,4 +1,4 @@
-# Spotify Loader. (Retire as propagandas (ADS) de seu APP Desktop.) Escute sem Interrupções.
+# <img src="/Pictures/SpotifyLogo.png"> Spotify Loader. (Retire as propagandas (ADS) de seu APP Desktop.) Escute sem Interrupções.
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Romulo-Meirelles) <br>
 Blocks advertisements on spotify desktop<br>
 Bloqueie propagandas da google e outros no spotify para desktop, escute suas musicas sem interrupções, baixe ou compile nosso loader e utilize na versão 1.0.96.181 do Spotify para não haver problemas no Loader.<br>
