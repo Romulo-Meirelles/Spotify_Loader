@@ -8,7 +8,7 @@ Baixe e instale o spotify desktop versão 1.0.96.181 <br>
 e de 2 cliques no loader pois ele irá configurar e abrir o spotify original sem propagandas.<br>
 Spotify v1.0.96.181: https://mega.nz/file/8AwH3CpD#ruCMuCmnKUqISyiNrbkdPWe_t715RvFg0GTK1WtTVeY<br>
 
-## Características
+## ✨ Características ✨
 
 - Loader Spotify
 - Download de Lista de Host de advertisements.
@@ -18,4 +18,4 @@ Spotify v1.0.96.181: https://mega.nz/file/8AwH3CpD#ruCMuCmnKUqISyiNrbkdPWe_t715R
 - Apos fechar o Spotify restaura o HOST anterior.
 - Não Modifica o Spotify.
 <br>
-<img src="Pictures/Spotify.png" width="1024" heigth="768" align="left">
+<img src="Pictures/SpotifyWallPaper.png" width="1024" heigth="768" align="left">
