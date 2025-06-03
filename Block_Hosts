@@ -102,6 +102,7 @@
 127.0.0.1 heads-ec.spotify.com
 127.0.0.1 open.spotify.com
 #127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 ads.spotify.com
 
 adclick.g.doublecklick.net
 adeventtracker.spotify.com
